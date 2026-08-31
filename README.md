@@ -3,9 +3,9 @@
 Paste a poem, get its metre, every foot that departs from it, the rhyme scheme,
 and where to breathe when reading it aloud.
 
-Built for performance rather than analysis. Most scansion tools tell you a line
-is iambic pentameter. What a performer needs to know is which foot inverts and
-where the caesura falls, because those are the places the reading changes.
+Built for performance rather than analysis, based on my own experiences as a 2025 Foyle Young Poet of the Year, a National High School Poetry Quarterly Contest winner, and a University Interscholastic League Regional Qualifier in Poetry. I am also an eight-time finalist in Poetry Interpretation and 2x Speech Captain + District Coach. 
+
+Most scansion tools tell you a line is iambic pentameter. What a performer needs to know is which foot inverts and where the caesura falls, because those are the places the reading changes.
 
 ```
  ˘   ⁄  │ ˘   ⁄  │  ⁄   ˘ │ ˘  ˘ │  ⁄    ⁄
